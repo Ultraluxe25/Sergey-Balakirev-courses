@@ -1,1 +1,1 @@
-# Sergey-Balakirev-courses
+# Sergey Balakirev's courses
